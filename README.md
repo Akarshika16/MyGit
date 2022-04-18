@@ -1,1 +1,2 @@
-# MyGit
+# MyGi
+Welcome to my project 
